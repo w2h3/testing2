@@ -1,0 +1,10 @@
+{"public":true,"headers": [
+    {
+      "source": "/favicon.ico",
+      "headers": [
+        {
+          "key": "Content-type",
+          "value": "image/svg+xml"
+        }
+      ]
+    }]}
